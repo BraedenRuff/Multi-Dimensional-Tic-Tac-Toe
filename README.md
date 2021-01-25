@@ -8,7 +8,7 @@ In summary, you take turns with your opponent (either local or online), and sele
 
 Music and graphics can be selected in the home screen (only two options at the moment). 
 
-Will be adding a youtube demo shortly.
+Watch a short demo and explanation here: https://www.youtube.com/watch?v=LbyJ-zssbZg&feature=youtu.be
 
 Download here:
 https://www.dropbox.com/s/33bbc9lejmmekdm/MultiDimenionalTTT.rar?dl=0
